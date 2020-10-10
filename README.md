@@ -9,10 +9,10 @@ Runnding simulations requires several packages including ReaDDy2, a particle-bas
 ## Testing
 A simple test case is supplied under the "test" folder.
 
-## Paper
+### Reference
 For more information, please read:
 
 Wylie Stroberg and Santiago Schnell (2020). Concentration sensing in crowded environments. *bioRxiv*, DOI: [10.1101/2020.10.02.324129](https://doi.org/10.1101/2020.10.02.324129)
 
-## Do you have any questions?
+### Do you have any questions?
 Please contact [Wylie Stroberg](mailto:stroberg@ualberta.ca)

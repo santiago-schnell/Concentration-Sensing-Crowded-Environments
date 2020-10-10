@@ -1,5 +1,5 @@
 # qrevIPRD
-Quasi-reversible simulation wrapper for Interacting Particle Reaction Diffusion simulations.
+**Quasi-reversible simulation wrapper for Interacting Particle Reaction Diffusion simulations**
 
 This package contains source code for qrevIPRD simualtions. To run, download source code and place in python path.
 

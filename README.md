@@ -13,7 +13,7 @@ A simple test case is supplied under the "test" folder.
 For more information, please read:
 
 Wylie Stroberg and Santiago Schnell (2021). Concentration sensing in crowded environments. *Biophys J* **120**, 1718-1731. 
-DOI: [10.1016/j.bpj.2021.02.035](https://doi.org/10.1016/j.bpj.2021.02.03) or Preprint: *bioRxiv*, DOI: [10.1101/2020.10.02.324129](https://doi.org/10.1101/2020.10.02.324129)
+DOI: [10.1016/j.bpj.2021.02.035](https://doi.org/10.1016/j.bpj.2021.02.03) or preprint: *bioRxiv*, DOI: [10.1101/2020.10.02.324129](https://doi.org/10.1101/2020.10.02.324129)
 
 ### Do you have any questions?
 Please contact [Wylie Stroberg](mailto:stroberg@ualberta.ca)
